@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sum Of Prime", "Sum Of Prime.vcxproj", "{FFA13175-9067-48BE-BB9D-2D858B39D0F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFA13175-9067-48BE-BB9D-2D858B39D0F6}.Debug|x64.ActiveCfg = Debug|x64
+		{FFA13175-9067-48BE-BB9D-2D858B39D0F6}.Debug|x64.Build.0 = Debug|x64
+		{FFA13175-9067-48BE-BB9D-2D858B39D0F6}.Debug|x86.ActiveCfg = Debug|Win32
+		{FFA13175-9067-48BE-BB9D-2D858B39D0F6}.Debug|x86.Build.0 = Debug|Win32
+		{FFA13175-9067-48BE-BB9D-2D858B39D0F6}.Release|x64.ActiveCfg = Release|x64
+		{FFA13175-9067-48BE-BB9D-2D858B39D0F6}.Release|x64.Build.0 = Release|x64
+		{FFA13175-9067-48BE-BB9D-2D858B39D0F6}.Release|x86.ActiveCfg = Release|Win32
+		{FFA13175-9067-48BE-BB9D-2D858B39D0F6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93CED119-E956-42DB-9DF7-587A06B8F63D}
+	EndGlobalSection
+EndGlobal
